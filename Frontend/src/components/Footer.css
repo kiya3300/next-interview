@@ -1,0 +1,11 @@
+
+.footer_style {
+    position: absolute;
+    background-color: rgb(215, 177, 26);    
+}
+
+.footer_style div {
+    position: absolute;
+    top: 48%;
+    margin-left: 45%;
+}

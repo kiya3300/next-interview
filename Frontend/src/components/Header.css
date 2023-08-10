@@ -1,0 +1,14 @@
+
+.header-style {
+    display: flex;
+    flex-direction: column;    
+    background-color: rgb(158, 129, 0);
+}
+
+.header-style div {
+  color: #ffffff;
+  font-size: 48px;  
+  text-shadow: 2px 2px #e3c715;
+  margin: auto;
+  padding: 5px;
+}
